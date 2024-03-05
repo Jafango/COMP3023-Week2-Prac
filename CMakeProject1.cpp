@@ -10,6 +10,7 @@ void function2(int*);
 int main() {
 	int number = 10;
 	/* C1. display the contents of number to the screen */
+	std::cout << number << std::endl;
 	/* C2. display the address of variable number to the screen */
 	/* C3. call function1 */
 	/* C4. display the contents of number to the screen */
